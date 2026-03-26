@@ -1,0 +1,5 @@
+[build]
+nixpacksConfigPath = "nixpacks.toml"
+
+[build.nixpacks]
+nixPkgs = ["ffmpeg"]
